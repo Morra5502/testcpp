@@ -42,6 +42,8 @@ int main()
 			}
 			mainStr->Swap(busNumber);
 			break;
+
+			//sdfsdfsdfsdfdf
 		case(2):
 			cout << "console(1) or file(2)? \n";
 
